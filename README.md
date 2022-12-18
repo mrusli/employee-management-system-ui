@@ -1,6 +1,6 @@
 # Front-End React App with Spring Boot Back-End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed with React JS using various react libraries and tailwind CSS.  As always to start, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
