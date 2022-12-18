@@ -2,6 +2,10 @@
 
 This project was developed with React JS using various react libraries and tailwind CSS.  As always, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre-Requisite for React App
+
+This react app was developed using node js v18.12.1 and npm v9.2.0.
+
 ## Available Scripts
 
 In the project directory, you can run:
